@@ -1,25 +1,114 @@
-<h1 align="center">Hi 👋, I'm Amir Mustafa</h1>
-<h3 align="center">Software Engineer || Full Stack .NET Developer || ITI (4-Month) program trainee</h3>
+# Hello 👋, I'm Amir Mustafa
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmostafa99&label=Profile%20views&color=0e75b6&style=flat" alt="amirmostafa99" /> </p>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://amirmostafa99.github.io/My-Portfolio_/](https://amirmostafa99.github.io/My-Portfolio_/)
+## Software Engineer || Full Stack .NET Developer ||  Coding Instructor || Computer Science Graduate
 
-- 📫 How to reach me **amir.mustafa.ibrahem@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fsG_0V2ZOOu6iko1lCWXUb2NGyco4vbC/view?usp=sharing](https://drive.google.com/file/d/1fsG_0V2ZOOu6iko1lCWXUb2NGyco4vbC/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/amir9mustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/amir9mustafa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amir-mustafa-9ba2b1226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amir-mustafa-9ba2b1226/" height="30" width="40" /></a>
-</p>
+## 🛠️ Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirmostafa99&show_icons=true&locale=en&layout=compact" alt="amirmostafa99" /></p>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirmostafa99&show_icons=true&locale=en" alt="amirmostafa99" /></p>
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmostafa99&" alt="amirmostafa99" /></p>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMostafa99&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirMostafa99&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMostafa99&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Computer Science Graduate** from Assiut University (2024)
+- 💼 **Full Stack .NET Developer** with expertise in modern web technologies
+- 🌱 Currently learning **Advanced .NET Core**, **Microservices**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AmirMostafa99)
+- 📫 How to reach me: **amir.mustafa.ibrahem@gmail.com**
+- 📍 Based in ** Egypt**
+
+---
+
+## 💻 Technical Skills
+
+### Backend Development
+- **Languages:** C#, .NET Core, .NET Framework, ASP.NET MVC, Web API
+- **Databases:** SQL Server
+- **ORM:** Entity Framework
+- **Architecture:** Clean Architecture, SOLID Principles, Design Patterns
+
+### Frontend Development
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks:** Angular, Bootstrap, jQuery
+
+### DevOps & Tools
+- **Version Control:** Git, GitHub, Azure DevOps
+- **Cloud:**AWS basics
+- **Tools:** Visual Studio, VS Code, Postman, 
+
+---
+
+## 🏆 Achievements
+
+- 📚 **Continuous Learner:** Always exploring new technologies
+- 🤝 **Team Player:** Experience in collaborative development
+- 🎓 **Academic Excellence:** Computer Science degree with strong foundation
+
+---
+
+## 📈 Activity Graph
+
+[![Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirMostafa99&theme=react-dark&hide_border=true)](https://github.com/AmirMustafa)
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-mustafa)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirMustafa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir.mustafa.ibrahem@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=AmirMostafa99&color=brightgreen&style=flat-square)
+
+</div>
