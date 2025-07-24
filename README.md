@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmostafa99&label=Profile%20views&color=0e75b6&style=flat" alt="amirmostafa99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirmostafa99" alt="amirmostafa99" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://amirmostafa99.github.io/My-Portfolio_/](https://amirmostafa99.github.io/My-Portfolio_/)
 
 - 📫 How to reach me **amir.mustafa.ibrahem@gmail.com**
