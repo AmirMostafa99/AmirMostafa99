@@ -4,14 +4,7 @@
 <h2 align="center">About Me 😶‍🌫️</h2>
 
 <p align="center">
-Skilled and disciplined Junior Backend Developer with expertise in <b>ASP.NET</b>, 
-specializing in creating robust and scalable server-side applications.<br><br>
-
-Proficient in debugging complex issues, ensuring smooth and efficient application performance.<br><br>
-
-I also have some experience in <b>Angular</b> and UI development, which brings a 
-comprehensive approach to delivering high-performance solutions that enhance 
-both <b>system reliability</b> and <b>user experience</b>.
+Skilled and disciplined Junior Backend Developer with expertise in <b>ASP.NET</b>, specializing in creating robust and scalable server-side applications. Proficient in debugging complex issues, ensuring smooth and efficient application performance. I also have some experience in <b>Angular</b> and UI development, which brings a comprehensive approach to delivering high-performance solutions that enhance both <b>system reliability</b> and <b>user experience</b>. In addition, I worked at <b>iSchool</b> as a Coding Instructor, teaching students the fundamentals of programming and problem-solving concepts.
 </p>
 
 ---
