@@ -1,11 +1,17 @@
 
-<h1 align="center">Hello 👋, I'm Amir Mustafa</h1>
+<h1 align="center">Hi, I'm Amir 🙋‍♂️👨‍💻</h1>
 
-<div align="center">
+## About Me 😶‍🌫️
 
-## Software Engineer || Full Stack .NET Developer ||  Coding Instructor || Computer Science Graduate
+Skilled and disciplined Junior Backend Developer with expertise in **ASP.NET**, 
+specializing in creating robust and scalable server-side applications.  
 
-</div>
+Proficient in debugging complex issues, ensuring smooth and efficient application performance.  
+
+I also have some experience in **Angular** and UI development, which brings a 
+comprehensive approach to delivering high-performance solutions that enhance 
+both **system reliability** and **user experience**.
+
 
 ---
 
