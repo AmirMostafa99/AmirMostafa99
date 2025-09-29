@@ -1,17 +1,18 @@
 
 <h1 align="center">Hi, I'm Amir 🙋‍♂️👨‍💻</h1>
 
-## About Me 😶‍🌫️
+<h2 align="center">About Me 😶‍🌫️</h2>
 
-Skilled and disciplined Junior Backend Developer with expertise in **ASP.NET**, 
-specializing in creating robust and scalable server-side applications.  
+<p align="center">
+Skilled and disciplined Junior Backend Developer with expertise in <b>ASP.NET</b>, 
+specializing in creating robust and scalable server-side applications.<br><br>
 
-Proficient in debugging complex issues, ensuring smooth and efficient application performance.  
+Proficient in debugging complex issues, ensuring smooth and efficient application performance.<br><br>
 
-I also have some experience in **Angular** and UI development, which brings a 
+I also have some experience in <b>Angular</b> and UI development, which brings a 
 comprehensive approach to delivering high-performance solutions that enhance 
-both **system reliability** and **user experience**.
-
+both <b>system reliability</b> and <b>user experience</b>.
+</p>
 
 ---
 
