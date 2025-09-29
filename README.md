@@ -52,10 +52,9 @@ Skilled and disciplined Junior Backend Developer with expertise in <b>ASP.NET</b
 
 - 🎓 **Computer Science Graduate** from Assiut University (2024)
 - 💼 **Full Stack .NET Developer** with expertise in modern web technologies
-- 🌱 Currently learning **Advanced .NET Core**, **Microservices**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AmirMostafa99)
 - 📫 How to reach me: **amir.mustafa.ibrahem@gmail.com**
-- 📍 Based in ** Egypt**
+- 📍 Based in **Egypt**
 
 ---
 
