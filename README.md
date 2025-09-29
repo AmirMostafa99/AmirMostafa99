@@ -1,6 +1,6 @@
-<div align="center">
-# Hello 👋, I'm Amir Mustafa
-</div>
+
+<h1 align="center">Hello 👋, I'm Amir Mustafa</h1>
+
 <div align="center">
 
 ## Software Engineer || Full Stack .NET Developer ||  Coding Instructor || Computer Science Graduate
