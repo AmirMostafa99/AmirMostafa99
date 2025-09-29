@@ -72,7 +72,7 @@
 
 ### DevOps & Tools
 - **Version Control:** Git, GitHub, Azure DevOps
-- **Cloud:**AWS basics
+- **Cloud :** AWS basics
 - **Tools:** Visual Studio, VS Code, Postman, 
 
 ---
